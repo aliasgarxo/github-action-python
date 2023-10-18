@@ -1,2 +1,2 @@
 print("Hello, World")
-print("Exclusively authored by Aliasgar Husain")
+print("Exclusively authored by Aliasgar Husain.")
